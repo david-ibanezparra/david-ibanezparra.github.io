@@ -1,0 +1,45 @@
+---
+title: "Research"
+toc: true
+number-sections: true
+---
+
+## Rutgers University
+
+*Intro to IR*. Teaching assistant for Prof. Andrey Tomashevskiy (Fall 2022; Spring 2024); Prof. Robert Schub (Fall 2023).
+
+*Law and Politics*. Teaching assistant for Prof. Lisa Miller (Spring 2022; Spring 2023)
+
+*International Political Economy*. Instructor of Record. Summer 2023.
+
+*Comparative Politics*. Instructor of Record. Summer 2025.
+
+## London School of Economics
+
+*Thinking Strategically (Masters)*. Teaching assistant for Prof. Ignacio Palacios-Huerta (Spring 2019)
+
+## University of Chicago
+
+*Microeconomics 1*. Teaching assistant for Prof. Kerwin Charles (Spring 2014)
+
+## Pontificia Universidad Javeriana
+
+*Microeconomics 1 (Masters)*. Instructor of Record. Taught at Universidad Javeriana. Bogota, Colombia.
+
+*Econometrics*. Instructor of Record. Taught at Universidad Javeriana. Bogota, Colombia.
+
+*Trade Economics*. Instructor of Record. Taught at Universidad Javeriana. Bogota, Colombia.
+
+*Macroeconomics*. Instructor of Record. Taught at Universidad Javeriana. Bogota, Colombia.
+
+## Universidad Nacional de Colombia
+
+*International Relations* Instructor of Record. Taught at Universidad Nacional. Bogota, Colombia.
+
+## Universidad del Rosario
+
+*Public Policy Evaluation (Masters)* Instructor of Record. Taught at Universidad del Rosario. Bogota, Colombia.
+
+## Universidad de los Andes
+
+*Microeconomics 2*. Instructor of Record. Taught at Universidad de los Andes. Bogota, Colombia.
