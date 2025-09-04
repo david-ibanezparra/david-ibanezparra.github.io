@@ -2,11 +2,11 @@
 
 # website settings
 website:
-  title: "Elizabeth Echavarría"                                # Your name
-  description: "Ph.D. Student - Department of Political Science, University of Washigton Seattle"   
-  image: img/pic.jpg
+  title: "David Ibanez"                                # Your name
+  description: "Ph.D. Candidate - Department of Political Science, Rutgers University"   
+  image: img/pic.jpeg
   
-  favicon: img/e-icon.jpg
+  favicon: img/light.jpg
   
   # start of the navigation bar at the top of the website
   navbar:
@@ -16,14 +16,18 @@ website:
     left:
       - text: "CV"
         href: cv/index.qmd
+      - text: "Research"
+        href: photography/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
     
     # your social media handles
     right:
       - icon: linkedin
-        href: https://www.linkedin.com/in/elizabethechavarria/
+        href: http://linkedin.com/in/david-ibanez-profile
       - icon: envelope
         aria-label: email
-        href: "mailto:eet1@uw.edu"  
+        href: "mailto:david.ibanez@rutgers.edu"  
   
   
 

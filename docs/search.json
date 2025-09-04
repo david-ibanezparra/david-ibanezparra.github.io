@@ -9,9 +9,9 @@
   {
     "objectID": "photography/index.html",
     "href": "photography/index.html",
-    "title": "Photography",
+    "title": "Research",
     "section": "",
-    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+    "text": "The mark of a criminal record in US immigration bond hearings. (2025). Journal of Ethnic and Migration Studies. 1–25.\nAn Expensive Pass to Freedom: Bond Amounts Trajectories in Immigration Court. (2023). American Behavioral Scientist, 0(0).\nCriminal defense work in a sample of arrest hearings in three states of Mexico: the micro-dynamics of case-level engagement, influence, and strategy. (2023). Crime Law Soc Change 79, 555–580.\nMerit and Impartiality in Public Administration: The Effect of Democratic Backsliding through Participation and Contestation. (2025). Policy Studies. (R&R)."
   },
   {
     "objectID": "projects/index.html",
@@ -37,8 +37,92 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Elizabeth Echavarría",
+    "title": "David Ibanez",
     "section": "",
-    "text": "I am a fourth-year Political Science Ph.D. student at the University of Washington in Seattle interested in Environmental Politics. My research explores the political economy of critical minerals supply chains, concerning their fundamental role in the development of renewable sources of energy and enabling a just transition. I am also interested in non-profits research, particularly their involvement in social and energy/climate justice issues.\nI am a fellow of UW’s Center for Environmental Politics, and I held the position of Graduate Chair of its Colloquium Series during the Academic Year 2024-25.\nMy research has been recognized with fellowships by UW’s Clean Energy Institute, the Oxford - Penn Social Impact Doctoral Program, and awards by the Renewable Energy Scholarship Foundation, and APSA’s Fund for Latino Scholarship. I was also part of the first cohort of Resources for the Future Critical Minerals Research Lab between 2024 and 2025.\nI hold a B.A. in Political Science from Universidad Nacional de Colombia (2014) and an M.Sc. in Public Policy from University College London (2019), which I completed thanks to a Chevening Scholarship funded by the British Foreign and Commonwealth Office. Before my doctoral studies, I worked as a program and project manager at various Non-Governmental Organizations in South America, where I promoted transparency and responsible practices in the extractive sector.\nPlease feel free to contact me if you would like to know more about my work or discuss potential collaborations.\nHow to pronounce my name."
+    "text": "I’m a fifth-year Political Science Ph.D. candidate at Rutgers University in New Brunswick, NJ. My research examines democratic erosion and the quality of governance, with a focus on how state capacity and coercive power—conditioned by predatory capture—shape trajectories of democracy in Latin America and beyond. My dissertation, Democracy Under Siege: Decoding the Mechanisms of Democratic Erosion, integrates new measurement strategies with cross-national panel analysis.\nI teach Comparative Politics, Methods and International Political Economy, and I currently serve as a research assistant to Professor Lisa Miller on a book project about checks and balances and the American democratic deficit. My broader background includes senior policy and research roles in Colombia’s public sector and multilateral projects, bridging rigorous empirical methods with real-world institutional reform.\nMethodologically, I am a quantitative researcher. I build reproducible pipelines in R and Stata (with a working knowledge of Python) and use fixed-effects panel models, time series, interaction designs, probabilistic models, structural equation modeling, and simulation/bootstrapping. I also develop computational workflows, text mining, machine learning (supervised vs. unsupervised), and multivariate statistics.\nMy work appears in the Journal of Ethnic and Migration Studies, American Behavioral Scientist, and Crime, Law & Social Change, with additional papers under review and an R&R at Policy Studies. My research has been supported by fellowships and scholarships from Rutgers (Excellence Fellowship), the Chevening Programme, Stanford’s Hoover Institution, Harvard’s Center for International Development, and the Joint Japan/World Bank program. I hold an M.A. in Political Science from Rutgers, an M.Sc. in Development Management from the London School of Economics (Chevening Scholar), an M.P.P. from the University of Chicago, and I hold two B.A.: one in Political Science and the other one in Economics and a M.A. in economics from leading Colombian universities (with honors).\nPlease feel free to contact me if you’d like to learn more about my work or discuss potential collaborations."
+  },
+  {
+    "objectID": "photography/index.html#publications",
+    "href": "photography/index.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "The mark of a criminal record in US immigration bond hearings. (2025). Journal of Ethnic and Migration Studies. 1–25.\nAn Expensive Pass to Freedom: Bond Amounts Trajectories in Immigration Court. (2023). American Behavioral Scientist, 0(0).\nCriminal defense work in a sample of arrest hearings in three states of Mexico: the micro-dynamics of case-level engagement, influence, and strategy. (2023). Crime Law Soc Change 79, 555–580.\nMerit and Impartiality in Public Administration: The Effect of Democratic Backsliding through Participation and Contestation. (2025). Policy Studies. (R&R)."
+  },
+  {
+    "objectID": "photography/index.html#in-books",
+    "href": "photography/index.html#in-books",
+    "title": "Research",
+    "section": "2 IN BOOKS",
+    "text": "2 IN BOOKS\nDemocratic Erosion, Backsliding and the Quality of Governance in Latin America. (2025) In Ohemeng, F., & Ayee, J., The Politics of Democratic Backsliding: Speaking Truth to Power in Political and Bureaucratic Relationships in Emerging and Developing Countries. Emerald Publishing.\nSirve el análisis y la evaluación de las políticas públicas?. In Andre-Noel Roth, El análisis y evaluación de las Políticas Publicas en la era de la participación: reflexiones teóricas y estudios de casos. Universidad Nacional de Colombia. Colección Gerardo Molina. 32. ISBN: 9789587615135."
+  },
+  {
+    "objectID": "photography/index.html#working-papers",
+    "href": "photography/index.html#working-papers",
+    "title": "Research",
+    "section": "4 WORKING PAPERS",
+    "text": "4 WORKING PAPERS\nThe Cross, the Sword, and the Purse: Two Centuries of State-Building in Latin America. (2025). Under Review. (Presented in MPSA, 2023)\nThis article offers a new perspective on Latin American state-building by integrating the often-overlooked institutional role of the Catholic Church alongside the traditional drivers of war and global capitalism. Using a novel multidimensional index of state capacity and state formation across 20 countries from 1810 to 2000, the study demonstrates that, contrary to classic European models, 19th-century Latin American state development was shaped primarily by trade and the Church, which provided essential administrative functions and facilitated territorial integration. In the 20th century, industrialization emerged as the leading force behind expanding state capacity, while secularization transformed the Church from a structural actor to a more symbolic presence. By systematically incorporating Church presence into the analysis and introducing an original diocesan density index, this research offers a more comprehensive and historically grounded explanation of state trajectories in Latin America, expanding both the theoretical and methodological toolkit for understanding state-building in late-developing regions.\nDirect and Indirect Effects of Democratic Backsliding on Governance Outcomes: The Role of Public Administration. (2025). Under Review. (Presented in MPSA, 2025)\nDemocratic backsliding, characterized by the erosion or sudden reversion of democratic institutions, has significant implications for governance outcomes, particularly through its impact on public administration quality. This study investigates how varying degrees of democratic backsliding—mild erosion, erosion, and reversion—affect governance outcomes both directly and indirectly, with public administration quality as a mediating factor. Using data from 105 countries between 1996 and 2022, the research employs the Varieties of Democracies (V-Dem) dataset to measure democratic backsliding, while a synthetic index constructed through rolling principal component analysis (PCA) assesses public administration quality. Governance outcomes are derived from the Worldwide Governance Indicators (WGI), focusing on government effectiveness, regulatory quality, voice and accountability, and control of corruption. Through Structural Equation Modeling (SEM), the study decomposes the total effects of democratic backsliding on governance outcomes into direct and indirect components. The analysis reveals that democratic erosion and reversion have notably negative direct impacts on governance, particularly in regulatory quality and control of corruption. Interestingly, mild erosion demonstrates a temporary stabilizing effect on government effectiveness, suggesting that early stages of backsliding may decrease political volatility, leaving bureaucratic efficiency relatively unaffected or even enhanced. However, as democratic backsliding intensifies, the indirect effects mediated by public administration quality become more pronounced. Deterioration in public administration due to deeper backsliding significantly undermines governance outcomes, especially regarding voice and accountability and control of corruption. Weakened administrative structures limit the state’s capacity to uphold democratic norms and fight corruption effectively. These findings underscore the twofold mechanism through which democratic backsliding operates: while early stages may not immediately harm governance, deeper levels of erosion systematically degrade public administration, leading to severe governance decline. This research highlights the critical importance of maintaining robust, independent public administration systems to mitigate the negative consequences of democratic backsliding.\nA Theory of Democratic Erosion: Mapping Stages through the Democratic Gap. (2025)\nThis paper advances a new theory of democratic erosion by introducing the concept of the democratic gap—the cumulative difference between a country’s observed level of democracy and the level it would have attained under uninterrupted consolidation. I argue that mild erosion, often dismissed as statistical noise, is a crucial initial stage that opens the window for deeper backsliding; only after this breach do actor-centered dynamics of severe erosion—elected leaders with autocratic aspirations—become possible. I propose a staged framework that distinguishes mild and severe erosion, as well as episodes of recovery, and operationalize the democratic gap using synthetic control methods. This approach demonstrates that not all drivers operate equally across stages: exogenous factors such as inequality and global diffusion primarily trigger mild erosion, while endogenous factors like polarization and executive aggrandizement shape severe erosion. Robust accountability institutions, in turn, facilitate democratic recovery. By mapping the magnitude and sequence of erosion through the democratic gap, this study provides a more precise and dynamic understanding of how distinct factors shape democratic decline and the conditions for reversal.\nCapacity or Coercion? How Predation Reverses the State’s Effect on Democracy. (2025)\nHow and when does the state protect democracy from erosion? I advance a conditional theory in which the effects of state capacity and coercive capacity depend on predation—the capture of state institutions for partisan or private gain. Using a panel (1990–2023) and partial proportional-odds generalized logistic models, I classify democratic trajectories into stability, mild erosion, and severe erosion/reversion. Capacity (taxation, bureaucratic impartiality, public-goods provision) lowers the probability of entering erosion, especially at early stages. Coercive capacity (territorial control, organizational subordination of force) is protective only under low predation; under high predation, it accelerates movement from mild to severe erosion as security organs are politicized. Interaction estimates show that predation flips the sign of capacities, neutralizing administrative guardrails and weaponizing coercion. The results reconcile conflicting “state-first” claims by demonstrating that strong states are necessary but insufficient for democratic resilience unless insulated from capture, and they highlight stage-specific risks and policy levers."
+  },
+  {
+    "objectID": "photography/index.html#dissertation",
+    "href": "photography/index.html#dissertation",
+    "title": "Research",
+    "section": "3 DISSERTATION",
+    "text": "3 DISSERTATION\nDemocracy Under Siege: Decoding The Mechanisms of Democratic Erosion is a three-essay dissertation that opens the black box of backsliding and recovery. Rather than treating “erosion” as a vague decline, it advances a staged, mechanism-first account that pinpoints when democracies slip, why they accelerate or stabilize, and how they can be steered back toward consolidation. The project’s relevance is practical and urgent: contemporary autocratization rarely arrives by coup, so scholars, monitors, and policymakers need early-warning diagnostics and targeted levers, not post-mortems. Its innovations are threefold: (1) a unified staging framework that separates routine turbulence from genuine erosion using transparent, reproducible measurement; (2) a reconceptualization of state power that distinguishes capacity from coercion and shows how predation—the capture of state machinery for private or partisan ends—flips their effects on democracy; and (3) stage-specific tests that identify the administrative and institutional channels through which decline unfolds and can be reversed. Together, the essays deliver a coherent toolkit for diagnosing trajectories and designing interventions before breakdown."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Intro to IR. Teaching assistant for Prof. Andrey Tomashevskiy (Fall 2022; Spring 2024); Prof. Robert Schub (Fall 2023).\nLaw and Politics. Teaching assistant for Prof. Lisa Miller (Spring 2022; Spring 2023)\nInternational Political Economy. Instructor of Record. Summer 2023.\nComparative Politics. Instructor of Record. Summer 2025."
+  },
+  {
+    "objectID": "teaching/index.html#rutgers-university",
+    "href": "teaching/index.html#rutgers-university",
+    "title": "Research",
+    "section": "",
+    "text": "Intro to IR. Teaching assistant for Prof. Andrey Tomashevskiy (Fall 2022; Spring 2024); Prof. Robert Schub (Fall 2023).\nLaw and Politics. Teaching assistant for Prof. Lisa Miller (Spring 2022; Spring 2023)\nInternational Political Economy. Instructor of Record. Summer 2023.\nComparative Politics. Instructor of Record. Summer 2025."
+  },
+  {
+    "objectID": "teaching/index.html#london-school-of-economics",
+    "href": "teaching/index.html#london-school-of-economics",
+    "title": "Research",
+    "section": "2 London School of Economics",
+    "text": "2 London School of Economics\nThinking Strategically (Masters). Teaching assistant for Prof. Ignacio Palacios-Huerta (Spring 2019)"
+  },
+  {
+    "objectID": "teaching/index.html#university-of-chicago",
+    "href": "teaching/index.html#university-of-chicago",
+    "title": "Research",
+    "section": "3 University of Chicago",
+    "text": "3 University of Chicago\nMicroeconomics 1. Teaching assistant for Prof. Kerwin Charles (Spring 2014)"
+  },
+  {
+    "objectID": "teaching/index.html#pontificia-universidad-javeriana",
+    "href": "teaching/index.html#pontificia-universidad-javeriana",
+    "title": "Research",
+    "section": "4 Pontificia Universidad Javeriana",
+    "text": "4 Pontificia Universidad Javeriana\nMicroeconomics 1 (Masters). Instructor of Record. Taught at Universidad Javeriana. Bogota, Colombia.\nEconometrics. Instructor of Record. Taught at Universidad Javeriana. Bogota, Colombia.\nTrade Economics. Instructor of Record. Taught at Universidad Javeriana. Bogota, Colombia.\nMacroeconomics. Instructor of Record. Taught at Universidad Javeriana. Bogota, Colombia."
+  },
+  {
+    "objectID": "teaching/index.html#universidad-nacional-de-colombia",
+    "href": "teaching/index.html#universidad-nacional-de-colombia",
+    "title": "Research",
+    "section": "5 Universidad Nacional de Colombia",
+    "text": "5 Universidad Nacional de Colombia\nInternational Relations Instructor of Record. Taught at Universidad Nacional. Bogota, Colombia."
+  },
+  {
+    "objectID": "teaching/index.html#universidad-del-rosario",
+    "href": "teaching/index.html#universidad-del-rosario",
+    "title": "Research",
+    "section": "6 Universidad del Rosario",
+    "text": "6 Universidad del Rosario\nPublic Policy Evaluation (Masters) Instructor of Record. Taught at Universidad del Rosario. Bogota, Colombia."
+  },
+  {
+    "objectID": "teaching/index.html#universidad-de-los-andes",
+    "href": "teaching/index.html#universidad-de-los-andes",
+    "title": "Research",
+    "section": "7 Universidad de los Andes",
+    "text": "7 Universidad de los Andes\nMicroeconomics 2. Instructor of Record. Taught at Universidad de los Andes. Bogota, Colombia."
   }
 ]

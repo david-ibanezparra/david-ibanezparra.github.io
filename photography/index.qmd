@@ -1,24 +1,52 @@
 ---
-title: "Photography"
+title: "Research"
+toc: true
+number-sections: true
 ---
 
-As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.
+## PUBLICATIONS
 
-::: {layout-ncol=2}
+[The mark of a criminal record in US immigration bond hearings](https://www.tandfonline.com/doi/full/10.1080/1369183X.2025.2547871). (2025). Journal of Ethnic and Migration Studies. 1–25.
 
-![](gandalf_image_1.jpg)
+[An Expensive Pass to Freedom: Bond Amounts Trajectories in Immigration Court](https://journals.sagepub.com/doi/10.1177/00027642231215990). (2023). American Behavioral Scientist, 0(0).
 
-![](gandalf_image_2.jpg)
+[Criminal defense work in a sample of arrest hearings in three states of Mexico: the micro-dynamics of case-level engagement, influence, and strategy](https://link.springer.com/article/10.1007/s10611-023-10081-2). (2023). Crime Law Soc Change 79, 555–580.
 
-![](gandalf_image_3.jpg)
+**Merit and Impartiality in Public Administration: The Effect of Democratic Backsliding through Participation and Contestation**. (2025). Policy Studies. (R&R).
 
-![](gandalf_image_4.jpg)
+## IN BOOKS
 
-:::
+**Democratic Erosion, Backsliding and the Quality of Governance in Latin America**. (2025) In Ohemeng, F., & Ayee, J., The Politics of Democratic Backsliding: Speaking Truth to Power in Political and Bureaucratic Relationships in Emerging and Developing Countries. Emerald Publishing.
+
+**Sirve el análisis y la evaluación de las políticas públicas?**. In Andre-Noel Roth, El análisis y evaluación de las Políticas Publicas en la era de la participación: reflexiones teóricas y estudios de casos. Universidad Nacional de Colombia. Colección Gerardo Molina. 32. ISBN: 9789587615135.
+
+## DISSERTATION
+
+**Democracy Under Siege: Decoding The Mechanisms of Democratic Erosion** is a three-essay dissertation that opens the black box of backsliding and recovery. Rather than treating “erosion” as a vague decline, it advances a staged, mechanism-first account that pinpoints when democracies slip, why they accelerate or stabilize, and how they can be steered back toward consolidation. The project’s relevance is practical and urgent: contemporary autocratization rarely arrives by coup, so scholars, monitors, and policymakers need early-warning diagnostics and targeted levers, not post-mortems. Its innovations are threefold: (1) a unified staging framework that separates routine turbulence from genuine erosion using transparent, reproducible measurement; (2) a reconceptualization of state power that distinguishes capacity from coercion and shows how predation—the capture of state machinery for private or partisan ends—flips their effects on democracy; and (3) stage-specific tests that identify the administrative and institutional channels through which decline unfolds and can be reversed. Together, the essays deliver a coherent toolkit for diagnosing trajectories and designing interventions before breakdown.
+
+## WORKING PAPERS
+
+**The Cross, the Sword, and the Purse: Two Centuries of State-Building in Latin America**. (2025). Under Review. (Presented in MPSA, 2023)
 
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
+*This article offers a new perspective on Latin American state-building by integrating the often-overlooked institutional role of the Catholic Church alongside the traditional drivers of war and global capitalism. Using a novel multidimensional index of state capacity and state formation across 20 countries from 1810 to 2000, the study demonstrates that, contrary to classic European models, 19th-century Latin American state development was shaped primarily by trade and the Church, which provided essential administrative functions and facilitated territorial integration. In the 20th century, industrialization emerged as the leading force behind expanding state capacity, while secularization transformed the Church from a structural actor to a more symbolic presence. By systematically incorporating Church presence into the analysis and introducing an original diocesan density index, this research offers a more comprehensive and historically grounded explanation of state trajectories in Latin America, expanding both the theoretical and methodological toolkit for understanding state-building in late-developing regions.*
+
+
+**Direct and Indirect Effects of Democratic Backsliding on Governance Outcomes: The Role of Public Administration**. (2025).  Under Review. (Presented in MPSA, 2025)
+
+
+*Democratic backsliding, characterized by the erosion or sudden reversion of democratic institutions, has significant implications for governance outcomes, particularly through its impact on public administration quality. This study investigates how varying degrees of democratic backsliding—mild erosion, erosion, and reversion—affect governance outcomes both directly and indirectly, with public administration quality as a mediating factor. Using data from 105 countries between 1996 and 2022, the research employs the Varieties of Democracies (V-Dem) dataset to measure democratic backsliding, while a synthetic index constructed through rolling principal component analysis (PCA) assesses public administration quality. Governance outcomes are derived from the Worldwide Governance Indicators (WGI), focusing on government effectiveness, regulatory quality, voice and accountability, and control of corruption. Through Structural Equation Modeling (SEM), the study decomposes the total effects of democratic backsliding on governance outcomes into direct and indirect components. The analysis reveals that democratic erosion and reversion have notably negative direct impacts on governance, particularly in regulatory quality and control of corruption. Interestingly, mild erosion demonstrates a temporary stabilizing effect on government effectiveness, suggesting that early stages of backsliding may decrease political volatility, leaving bureaucratic efficiency relatively unaffected or even enhanced. However, as democratic backsliding intensifies, the indirect effects mediated by public administration quality become more pronounced. Deterioration in public administration due to deeper backsliding significantly undermines governance outcomes, especially regarding voice and accountability and control of corruption. Weakened administrative structures limit the state's capacity to uphold democratic norms and fight corruption effectively. These findings underscore the twofold mechanism through which democratic backsliding operates: while early stages may not immediately harm governance, deeper levels of erosion systematically degrade public administration, leading to severe governance decline. This research highlights the critical importance of maintaining robust, independent public administration systems to mitigate the negative consequences of democratic backsliding.*
+
+
+**A Theory of Democratic Erosion: Mapping Stages through the Democratic Gap**. (2025)
+
+
+*This paper advances a new theory of democratic erosion by introducing the concept of the democratic gap—the cumulative difference between a country’s observed level of democracy and the level it would have attained under uninterrupted consolidation. I argue that mild erosion, often dismissed as statistical noise, is a crucial initial stage that opens the window for deeper backsliding; only after this breach do actor-centered dynamics of severe erosion—elected leaders with autocratic aspirations—become possible. I propose a staged framework that distinguishes mild and severe erosion, as well as episodes of recovery, and operationalize the democratic gap using synthetic control methods. This approach demonstrates that not all drivers operate equally across stages: exogenous factors such as inequality and global diffusion primarily trigger mild erosion, while endogenous factors like polarization and executive aggrandizement shape severe erosion. Robust accountability institutions, in turn, facilitate democratic recovery. By mapping the magnitude and sequence of erosion through the democratic gap, this study provides a more precise and dynamic understanding of how distinct factors shape democratic decline and the conditions for reversal.*
+
+
+**Capacity or Coercion? How Predation Reverses the State’s Effect on Democracy**. (2025)
+
+
+*How and when does the state protect democracy from erosion? I advance a conditional theory in which the effects of state capacity and coercive capacity depend on predation—the capture of state institutions for partisan or private gain. Using a panel (1990–2023) and partial proportional-odds generalized logistic models, I classify democratic trajectories into stability, mild erosion, and severe erosion/reversion. Capacity (taxation, bureaucratic impartiality, public-goods provision) lowers the probability of entering erosion, especially at early stages. Coercive capacity (territorial control, organizational subordination of force) is protective only under low predation; under high predation, it accelerates movement from mild to severe erosion as security organs are politicized. Interaction estimates show that predation flips the sign of capacities, neutralizing administrative guardrails and weaponizing coercion. The results reconcile conflicting “state-first” claims by demonstrating that strong states are necessary but insufficient for democratic resilience unless insulated from capture, and they highlight stage-specific risks and policy levers.*
+
+

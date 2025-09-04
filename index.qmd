@@ -2,24 +2,25 @@
 about:
   template: marquee
   id: about-block
-  image: "docs/img/pic.jpg"
+  image: "img/pic.jpeg"
 
 
 ---
 
+![](img/photo.jpg)
+
 ::: {#about-block}
-:::
 
 I’m a fifth-year Political Science Ph.D. candidate at Rutgers University in New Brunswick, NJ. My research examines democratic erosion and the quality of governance, with a focus on how state capacity and coercive power—conditioned by predatory capture—shape trajectories of democracy in Latin America and beyond. My dissertation, Democracy Under Siege: Decoding the Mechanisms of Democratic Erosion, integrates new measurement strategies with cross-national panel analysis.
 
-I teach Comparative Politics and International Political Economy, and I currently serve as a research assistant to Professor Lisa Miller on a book project about checks and balances and the American democratic deficit. My broader background includes senior policy and research roles in Colombia’s public sector and multilateral projects, bridging rigorous empirical methods with real-world institutional reform.
+I teach Comparative Politics, Methods and International Political Economy, and I currently serve as a research assistant to Professor Lisa Miller on a book project about checks and balances and the American democratic deficit. My broader background includes senior policy and research roles in Colombia’s public sector and multilateral projects, bridging rigorous empirical methods with real-world institutional reform.
 
-Methodologically, I am a quantitative researcher. I build reproducible pipelines in R and Stata (with a working knowledge of Python) and use fixed-effects panel models, interaction designs, structural equation modeling, and simulation/bootstrapping to investigate mechanisms. I also develop computational workflows, preprocess text data for legislative materials, and perform machine learning and multivariate statistics.
+Methodologically, I am a quantitative researcher. I build reproducible pipelines in R and Stata (with a working knowledge of Python) and use fixed-effects panel models, time series, interaction designs, probabilistic models, structural equation modeling, and simulation/bootstrapping. I also develop computational workflows, text mining, machine learning (supervised vs. unsupervised), and multivariate statistics.
 
 My work appears in the Journal of Ethnic and Migration Studies, American Behavioral Scientist, and Crime, Law & Social Change, with additional papers under review and an R&R at Policy Studies. My research has been supported by fellowships and scholarships from Rutgers (Excellence Fellowship), the Chevening Programme, Stanford’s Hoover Institution, Harvard’s Center for International Development, and the Joint Japan/World Bank program.
-I hold an M.A. in Political Science from Rutgers, an M.Sc. in Development Management from the London School of Economics (Chevening Scholar), an M.P.P. from the University of Chicago, and B.A./M.A. degrees in Political Science and Economics from leading Colombian universities (honors).
+I hold an M.A. in Political Science from Rutgers, an M.Sc. in Development Management from the London School of Economics (Chevening Scholar), an M.P.P. from the University of Chicago, and I hold two B.A.: one in Political Science and the other one in Economics and a M.A. in economics from leading Colombian universities (with honors).
 
 Please feel free to [contact me](mailto:david.ibanez@rutgers.edu) if you’d like to learn more about my work or discuss potential collaborations.
 
-
+:::
 
