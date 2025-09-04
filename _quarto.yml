@@ -23,6 +23,8 @@ website:
     
     # your social media handles
     right:
+      - icon: google scholar
+        href: https://scholar.google.com/citations?user=OURetIAAAAAJ&hl=en
       - icon: linkedin
         href: http://linkedin.com/in/david-ibanez-profile
       - icon: envelope
